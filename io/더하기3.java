@@ -5,7 +5,7 @@
  * 또, 0으로 시작하는 수는 주어지지 않는다.
  */
 
-package baekjoon;
+package baekjoon.io;
 
 import java.io.*;
 import java.util.*;
