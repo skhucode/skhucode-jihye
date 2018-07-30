@@ -77,6 +77,7 @@ Arrays.sort(a, new Comparator<Point>(){
 > * 예를들면, 문자열의 natural 순서는 사전순
 > * Comparator는 다른 순서로 정렬하고 싶을 때 사용한다.
 > * 예를들면, 문자열을 깊이 순으로 정렬하고 싶을 때.
+> * Comparator가 유지보수가 좋다. DTO에 직접 안갔다오기 때문이다.
 
 
 
@@ -85,8 +86,6 @@ Arrays.sort(a, new Comparator<Point>(){
 * 자바 8
 
 * parallelSort()는 멀티스레드 활용하여 병렬로 처리하여 더 빠른 속도.
-
-![](C:\Users\jihye\Desktop\캡처.PNG)
 
 * 기존 Sort는 하나의 스레드.
 
