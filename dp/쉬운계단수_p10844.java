@@ -14,6 +14,46 @@ package baekjoon.dp;
 import java.util.Scanner;
 
 public class 쉬운계단수_p10844 {
+	//재귀로 풀기
+	 static int dp[][];
+	   final static int mod= 1000000000;
+	    
+	    public static void main(String[] args) {
+	            
+	        Scanner sc = new Scanner(System.in);
+	        int N=sc.nextInt();
+	        
+	        dp= new int[101][10];
+	        int sum=0;
+	        for(int i=0; i<10; i++){
+	            sum= (sum+f(N,i))%mod;
+	             
+	        }
+	      
+	        System.out.println(sum);
+	        sc.close();
+	     }
+	     
+	    public static int f(int i, int j){
+	        
+	        if(j<0 || j>9) return 0;
+	        if(i==0) return 0;
+	        if(i==1 && j==0) return 0;
+	        if(i==1) return 1;
+	      
+	       if(dp[i][j] > 0) 
+	             return dp[i][j]; //memoization
+	         
+	          dp[i][j] = (f(i-1,j-1) + f(i-1, j+1));
+	         
+	         return dp[i][j];
+	     }
+}
+
+
+
+
+	/* 반복문으로 풀기
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -41,5 +81,5 @@ public class 쉬운계단수_p10844 {
 		}
 		System.out.println(sum);
 	}
+	*/
 
-}

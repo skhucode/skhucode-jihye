@@ -37,5 +37,49 @@ public class 오르막수_p11057 {
 		
 		System.out.println(sum);
 	}
-
 }
+
+/*
+ * 재귀로 풀기
+ * import java.util.Scanner;
+ 
+public class Main {
+    
+    public static int[][] dp;
+    public static int N;
+    final static int mod =10007;
+ 
+    public static void main(String[] args) {
+ 
+        Scanner sc = new Scanner(System.in);
+        N=sc.nextInt();
+        sc.close();
+        
+        dp =  new int[1001][10];
+        int max=0;
+        for(int i=0; i<10; i++){
+             max += f(N,i)%mod; 
+        }
+        
+        System.out.println(max%mod);
+    } 
+    
+    public static int f(int N,int i){
+        
+        if(dp[N][i]>0)return dp[N][i];
+        if(N==0)return 0;
+        if(N==1 || i==0) return 1;
+        
+        for(int s=0; s<=i; s++){
+            
+            dp[N][i]+=f(N-1,s)%mod;
+        }
+        
+        return dp[N][i];
+    }
+    }
+
+
+
+
+ */
