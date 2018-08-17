@@ -55,13 +55,13 @@
 
 ### Math
  + 10430번 [나머지](https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EB%82%98%EB%A8%B8%EC%A7%80_p10430.java)
- + 2609번 [최대공약수와 최소공배수] (https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_p2609.java)
+ + 2609번 [최대공약수와 최소공배수](https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_p2609.java)
  + 11576번 [Base Conversion](https://github.com/skhucode/skhucode-jihye/blob/master/math01/BaseConversion_p11576.java)
- + 9613번 [GCD 합] (https://github.com/skhucode/skhucode-jihye/blob/master/math01/GCD%ED%95%A9_p9613.java)
- + 2089번 (https://github.com/skhucode/skhucode-jihye/blob/master/math01/p2089.java)
- + 1373번 [2진수에서 8진수] (https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%9D%B4%EC%A7%84%EC%88%98%EC%95%A0%EC%84%9C8%EC%A7%84%EC%88%98_p1373.java)
- + 11005번 [진법변환2] (https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%982_p11005.java)
- + 2745번 [진법변환] (https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_p2745.java)
- + 1934번 [최소공배수] (https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_p1934.java)
- + 1212번 [8진수에서 2진수] (https://github.com/skhucode/skhucode-jihye/blob/master/math01/%ED%8C%94%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C2%EC%A7%84%EC%88%98_p1212.java)
+ + 9613번 [GCD 합](https://github.com/skhucode/skhucode-jihye/blob/master/math01/GCD%ED%95%A9_p9613.java)
+ + 2089번 [-2진수](https://github.com/skhucode/skhucode-jihye/blob/master/math01/p2089.java)
+ + 1373번 [2진수에서 8진수](https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%9D%B4%EC%A7%84%EC%88%98%EC%95%A0%EC%84%9C8%EC%A7%84%EC%88%98_p1373.java)
+ + 11005번 [진법변환2](https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%982_p11005.java)
+ + 2745번 [진법변환](https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_p2745.java)
+ + 1934번 [최소공배수](https://github.com/skhucode/skhucode-jihye/blob/master/math01/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_p1934.java)
+ + 1212번 [8진수에서 2진수](https://github.com/skhucode/skhucode-jihye/blob/master/math01/%ED%8C%94%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C2%EC%A7%84%EC%88%98_p1212.java)
 
